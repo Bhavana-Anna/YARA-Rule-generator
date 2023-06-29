@@ -1,0 +1,1 @@
+# YARA-Rule-generator
